@@ -1,5 +1,4 @@
 # Git Branching Practice
-123445
 This repository is used to practice
 branching, merging, and reverting in Git.
 
@@ -7,3 +6,4 @@ branching, merging, and reverting in Git.
 - Branch management
 - Conflict handling
 - History control
+Project is under active development.
